@@ -102,7 +102,7 @@ return [
     'at_least_num_characters' => ':num أحرف على الأقل',
     'i_have_read_and_agree_to_the_terms_and_conditions' => 'لقد قرات ووافقت على ال <a :attributes>البنود و الظروف</a>',
     'by_continuing_on_this_website_you_accept_our_terms_of_use' => 'من خلال الاستمرار فإنك توافق على الشروط والأحكام <a :attributes>تعليمات الاستخدام</a>',
-    'by_continuing_on_this_website_you_accept_our_terms_of_use_and_posting_rules' => 'من خلال الاستمرار فإنك توافق على الشروط والأحكام، فإنك تقبل لدينا <a :attributes>تعليمات الاستخدام</a> وقواعد النشر',
+    'by_continuing_on_this_website_you_accept_our_terms_of_use_and_posting_rules' => 'من خلال الاستمرار فإنك توافق على الشروط والأحكام، <a :attributes>تعليمات الاستخدام</a> وقواعد النشر',
     'register' => 'تسجيل',
     'message_sent_to_moderators' => 'تم إرسال رسالتك إلى المشرفين لدينا.',
     'message_sent_to_moderators_thanks' => 'تم إرسال رسالتك إلى المشرفين لدينا. شكرا.',
