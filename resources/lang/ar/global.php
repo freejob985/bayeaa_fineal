@@ -95,7 +95,7 @@ return [
     'company_name' => 'اسم الشركة',
     'your_country' => 'بلدك',
     'country' => 'بلد',
-    'phone' => 'هاتف',
+    'phone' => 'هاتف', 
     'phone_number' => 'رقم الهاتف',
     'email' => 'Email',
     'please_repeat_your_password' => 'يرجى تكرار كلمة المرور',
