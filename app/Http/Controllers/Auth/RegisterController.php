@@ -90,7 +90,7 @@ class RegisterController extends FrontController
 	public function register(UserRequest $request)
 	{
 
-		dd($request->all());
+	//	dd($request->all());
 
 		// Conditions to Verify User's Email or Phone
 		$emailVerificationRequired = config('settings.mail.email_verification') == 1 && $request->filled('email');
