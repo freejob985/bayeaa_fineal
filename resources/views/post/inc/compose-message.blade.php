@@ -4,7 +4,7 @@
 			
 			<div class="modal-header">
 				<h4 class="modal-title">
-					<i class="icon-mail-2"></i> {{ t('contact_advertiser') }}
+					<i class="icon-mail-2"></i> :::{{ t('contact_advertiser') }}
 				</h4>
 				
 				<button type="button" class="close" data-dismiss="modal">
