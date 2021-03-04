@@ -272,7 +272,7 @@ return [
     'your_name' => 'اسمك',
     'E-mail' => 'البريد الإلكتروني',
     'ie_email' => 'أي you@gmail.com',
-    'your_message_here' => 'رسالتك هنا...',
+    'your_message_here' => 'أريد التحدث بشأن الموضوع...',
     'send_message' => 'إرسال رسالة',
     'congratulations' => 'تهانينا!',
     'oops' => 'وجه الفتاة!',
