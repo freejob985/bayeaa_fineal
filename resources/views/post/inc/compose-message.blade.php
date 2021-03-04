@@ -4,7 +4,14 @@
 			
 			<div class="modal-header">
 				<h4 class="modal-title">
-					<i class="icon-mail-2"></i> :::{{ t('contact_advertiser') }}
+					<i class="icon-mail-2"></i> {{ t('contact_advertiser') }}
+					@if (isset($user) and !empty($user))
+					<a href="{{ \App\Helpers\UrlGen::user($user) }}">
+						{{ $post->contact_name }}
+					</a>
+				@else
+					{{ $post->contact_name }}
+				@endif
 				</h4>
 				
 				<button type="button" class="close" data-dismiss="modal">
