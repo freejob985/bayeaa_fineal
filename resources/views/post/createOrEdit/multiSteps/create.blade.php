@@ -96,7 +96,7 @@
 													   <small id="" class="form-text text-muted" style="
 													   color: red !important;
 													   font-weight: bold;
-												   "> (وضع فيديو اكثر من 20 ثانية يؤدي الى تعليق الموقع)</small>
+												   "> ( ‏يرجى عدم تنزيل الفيديو اكثر من 20 ثانية، قد يأخذ بعض الوقت لتحميل الفيديو)</small>
 
 											</div>
 										</div>
