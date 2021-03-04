@@ -146,7 +146,7 @@ return [
     'city' => 'مدينة',
     'select_a_city' => 'حدد مدينة',
     'cities' => 'مدن',
-    'how_to_sell_quickly' => 'كيفية بيع بسرعة؟',
+    'how_to_sell_quickly' => 'نصائح البيع',
     'sell_quickly_advice_1' => 'استخدم عنوانا موجزا ووصفا للعنصر',
     'sell_quickly_advice_2' => 'تأكد من نشر في الفئة الصحيحة',
     'sell_quickly_advice_3' => 'إضافة صور جميلة إلى إعلانك',
