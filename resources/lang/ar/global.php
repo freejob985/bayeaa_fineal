@@ -429,7 +429,7 @@ return [
     'Expired' => 'منتهية الصلاحية',
     'Payment Details' => 'بيانات الدفع',
     'Username' => 'اسم المستخدم',
-    'Email or Phone' => 'بريد الكتروني او هاتف',
+    'Email or Phone' => 'بريد الكتروني',
     'Email address' => 'عنوان البريد الإلكتروني',
     'SMS Code' => 'رمز سمز',
     'Token' => 'رمز',
