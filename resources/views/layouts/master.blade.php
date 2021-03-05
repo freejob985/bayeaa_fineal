@@ -192,7 +192,9 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-xl-12">
-					<div class="alert alert-warning">
+					<div class="alert alert-warning" style="
+					display: none;
+				">
 						<button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
 						{!! $siteCountryInfo !!}
 					</div>
