@@ -509,6 +509,9 @@
 		@endif
 		
 	</div>
+
+
+	@include('post.inc.com')
 @endsection
 
 @section('modal_message')
