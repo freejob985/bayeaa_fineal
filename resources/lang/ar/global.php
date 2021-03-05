@@ -264,6 +264,8 @@ return [
     'Meet seller at a public place' => 'تحويل المبلغ للبائع يضمن حق البائع والمشتري',
     'Check the item before you buy' => 'تعامل مع البائع فقط ، وجود طرف ثالث قد يؤدي إلى الإحتيال',
     'Pay only after collecting the item' => 'ينصح بعدم إعطاء عربون لأي بائع',
+    'a1' => 'إتمام البيعة في مكان عام',
+
     'Pay2' => 'إتمام البيعة في مكان عام',
     'Know more' => 'تعرف أكثر',
     'View phone' => 'عرض الهاتف',

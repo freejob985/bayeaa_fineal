@@ -486,6 +486,7 @@
 										<li> {{ t('Meet seller at a public place') }} </li>
 										<li> {{ t('Check the item before you buy') }} </li>
 										<li> {{ t('Pay only after collecting the item') }} </li>
+										<li> {{ t('a1') }} </li>
 										<li> ينصح بعدم إعطاء عربون لأي بائع										</li>
 									</ul>
                                     <?php $tipsLinkAttributes = getUrlPageByType('tips'); ?>

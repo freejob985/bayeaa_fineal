@@ -300,6 +300,7 @@ return [
     'Meet seller at a public place' => 'Meet seller at a public place',
     'Check the item before you buy' => 'Check the item before you buy',
     'Pay only after collecting the item' => 'Pay only after collecting the item',
+    'a1' => 'The completion of the pledge of allegiance in a public place    ',
     'Know more' => 'Know more',
     'View phone' => 'View phone',
     
