@@ -16,6 +16,9 @@
 	._56q9 {
 		display: none !important;
 	} 
+	.pluginSkinLight.pluginFontHelvetica {
+		display: none !important;
+	}
 </style>
 @section('content')
 	{!! csrf_field() !!}
