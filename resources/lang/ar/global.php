@@ -258,7 +258,7 @@ return [
     'My Resume' => 'سيرتي الذاتية',
     'Resume' => 'استئنف',
     'Download the resume' => 'تحميل السيرة الذاتية',
-    'Send a message' => 'ارسل رسالة',
+    'Send a message' => 'مرسلة المعلن',
     'Contact Seller' => 'تواصل مع البائع',
     'Safety Tips for Buyers' => 'نصائح السلامة للمشترين',
     'Meet seller at a public place' => 'تحويل المبلغ للبائع يضمن حق البائع والمشتري',
