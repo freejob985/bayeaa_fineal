@@ -497,7 +497,7 @@
 			</div>
 
 		</div>
-		
+		@include('post.inc.com')
 		@if (config('settings.single.similar_posts') == '1' || config('settings.single.similar_posts') == '2')
 			@includeFirst([config('larapen.core.customizedViewPath') . 'home.inc.featured', 'home.inc.featured'], ['firstSection' => false])
 		@endif
@@ -511,7 +511,7 @@
 	</div>
 
 
-	@include('post.inc.com')
+
 @endsection
 
 @section('modal_message')
