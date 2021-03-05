@@ -12,7 +12,11 @@
  * Please read the full License from here - http://codecanyon.net/licenses/standard
 --}}
 @extends('layouts.master')
-
+<style>
+	._56q9 {
+		display: none !important;
+	} 
+</style>
 @section('content')
 	{!! csrf_field() !!}
 	<input type="hidden" id="postId" name="post_id" value="{{ $post->id }}">
