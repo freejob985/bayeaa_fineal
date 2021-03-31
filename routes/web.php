@@ -16,7 +16,7 @@ use Auth;
 
 
 
-
+dd("Catch errors for script and full tracking ( 2 )");
  
 Route::post('Comments/post', function (Request $request) {
     $comment = array();
